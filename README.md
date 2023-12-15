@@ -9,4 +9,6 @@ When you got evrything, you run the script in 3dsMax and import d3dmesh files, w
 # **what is TelltaleInspector-v1.0.2A ?**
 It is a tool by Lucas Saragosa who's used to modify telltale's games content (prop files,d3dtx files...) .
 And it can be also used to convert d3dmesh files.
+ **pictures**:
+ ![this will be in mc tomssssorrow](https://github.com/ARTHURTHEBG/WITHERSTORMS_in_blockbench/assets/153746419/41863d5a-38a6-4396-8cc5-58a453c3562c)
 
