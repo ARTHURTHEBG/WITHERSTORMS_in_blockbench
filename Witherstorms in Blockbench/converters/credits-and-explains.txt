@@ -1,0 +1,2 @@
+this application is made by @lucassaragosa , big thanks to him
+you can use this if you don't have 3dsmax and if you just want to convert d3dmeshes to obj real quick!
